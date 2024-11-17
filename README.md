@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CheryleRash
 - 👀 I’m interested in becoming a better data analyst.
 - 🌱 I’m currently attending Missouri State University learning all kinds of new analytic tools.
-- 💞️ I’m looking to collaborate on the best tool for data visualization.
+- 💞️ I’m looking to collaborate on the best tool for data visualization and wrapping my head around machine learning.
 - 📫 How to reach me by email mikidoo123@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to go to rock/country concerts.
